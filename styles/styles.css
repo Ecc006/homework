@@ -40,6 +40,19 @@ nav {
   display: table;
   margin: 0 auto;
 }
+a{
+    text-decoration: none;
+    color:chartreuse;
+}
+table, th, td {
+  border: 3px solid gray;
+  border-collapse: collapse;
+    color: white;
+    padding: 15px;
+}
+a:hover{
+    color: aqua;
+}
 nav ul {
   list-style: none;
   margin: 0;
